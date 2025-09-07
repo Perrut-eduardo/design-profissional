@@ -37,4 +37,4 @@ projeto-perfil/
 ## Como Rodar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-perfil.git
+   git clone file:///C:/Users/Perru/Documents/pagina.html
