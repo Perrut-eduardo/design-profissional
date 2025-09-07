@@ -36,4 +36,5 @@ projeto-perfil/
 
 ## Como Rodar
 1. Clone o repositório:
-   ```bash (https://perrut-eduardo.github.io/design-profissional/)
+   ```bash
+    (https://perrut-eduardo.github.io/design-profissional/)
