@@ -37,4 +37,11 @@ projeto-perfil/
 ## Como Rodar
 1. Clone o repositório:
    ```bash
-gh repo clone Perrut-eduardo/design-profissional
+   git clone https://github.com/seu-usuario/projeto-perfil.git
+Abra o arquivo index.html em qualquer navegador.
+
+Visualize e explore sua página de perfil.
+
+php-template
+Copiar código
+
