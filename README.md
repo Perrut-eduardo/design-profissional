@@ -37,4 +37,4 @@ projeto-perfil/
 ## Como Rodar
 1. Clone o repositório:
    ```bash
-  [ git clone https://github.com/seu-usuario/projeto-perfil.git](https://github.com/Perrut-eduardo/design-profissional.git)
+  [ git clone https://github.com/Perrut-eduardo/design-profissional.git
